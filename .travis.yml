@@ -1,5 +1,4 @@
 language: java
 script: mvn clean verify
-branches:
-  only:
-  - master
+jdk: oraclejdk8
+oc: windows
