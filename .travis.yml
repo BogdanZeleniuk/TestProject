@@ -1,2 +1,5 @@
 language: java
-script: maven main
+script: mvn clean verify
+jdk:
+ - openjdk8
+sudo: false
