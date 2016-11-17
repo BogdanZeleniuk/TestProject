@@ -1,0 +1,15 @@
+2016-11-17_08:44:06.643 [main] INFO  com.test.Main - Hello! We have a new request.
+2016-11-17_08:44:27.002 [main] INFO  com.test.Main - Hello! We have a new request.
+2016-11-17_08:47:22.623 [main] INFO  com.test.Main - Hello! We have a new request.
+2016-11-17_08:47:22.623 [main] INFO  com.test.Main - Hello! We have a new request.
+2016-11-17_08:48:16.972 [main] INFO  com.test.Main - Hello! We have a new request.
+2016-11-17_08:48:16.972 [main] INFO  com.test.Main - Hello! We have a new request.
+2016-11-17_08:48:17.167 [main] DEBUG com.test.Main - 6-9
+2016-11-17_08:48:17.167 [main] DEBUG com.test.Main - 6-9
+2016-11-17_08:49:26.569 [main] INFO  com.test.Main - Hello! We have a new request.
+2016-11-17_08:49:26.784 [main] DEBUG com.test.Main - 6-9
+2016-11-17_08:51:49.696 [main] INFO  com.test.Main - Hello! We have a new request.
+2016-11-17_08:51:50.059 [main] DEBUG com.test.Main - 6-9
+2016-11-17_09:04:58.633 [main] INFO  com.test.Main - Hello! We have a new request.
+2016-11-17_09:10:14.908 [main] INFO  com.test.Main - Hello! We have a new request.
+2016-11-17_09:10:32.987 [main] INFO  com.test.Main - Hello! We have a new request.
